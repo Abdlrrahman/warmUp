@@ -1,0 +1,12 @@
+
+	body  { 
+ 	background-color: blue;
+}
+
+	.button1 {
+		font-family: inherit;
+	}
+	.button2 {
+		font-family: initial;
+	}
+

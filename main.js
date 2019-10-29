@@ -198,3 +198,41 @@ function max(numbers) {
 
 
                               //  Good Luck :))
+
+                              
+html_yourname.html:
+
+
+
+                              <html>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>My easy Assessment</title>
+</head>
+<header>HTML is Eazy</header>
+<body>
+  <div id="myInfo">
+  <p>HyperText Markup Language (HTML) is the standard markup language for creating web pages and web applications.</p>
+  <input alt="add your name">
+  <button>add</button>
+  </div>
+</body>
+</html>
+
+
+style.css
+
+body {
+  background-color: blue;
+}
+
+header {
+  font-family: italic;
+}
+
+input {
+  text{
+  width: 22px;
+  height: 34px;
+}
+}
