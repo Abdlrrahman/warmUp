@@ -1,0 +1,10 @@
+#rightList {
+	color: purple;
+}
+#leftlist {
+	color: red;
+}
+.box {
+
+    display: flex;
+}
