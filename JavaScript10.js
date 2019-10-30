@@ -1,2 +1,7 @@
-//I traid to add the text ti the unorderd list after I click the button and add it to a new list and add class1 and class2 to that list
-$('#button').on('click', function { $('ul').append('li').text('input').add('class1', 'class2')})
+$('button').on('click', function() {
+	$('ul').append('<li class="class1">'+ $('#input1').val() +'</li>')
+});
+$( "button" ).click(function() {
+  $('li').toggleClass("class2");
+});
+
