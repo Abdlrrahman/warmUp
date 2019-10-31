@@ -1,4 +1,4 @@
-/* your task is to write a function that returns the smallest and largest integers in an unsorted string.
+ /* your task is to write a function that returns the smallest and largest integers in an unsorted string.
 Input
     Your function will receive two arguments:
 
