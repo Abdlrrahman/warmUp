@@ -30,4 +30,4 @@ function sum(x, y){
 
 =======
 //you can only add one at each summetion, you'll need to use recursion in this.
->>>>>>> 5351c491bef905428a1af3ea57f32fb6874d8e38
+
